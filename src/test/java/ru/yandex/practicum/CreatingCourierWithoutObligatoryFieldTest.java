@@ -14,7 +14,6 @@ import ru.yandex.practicum.model.Courier;
 import static org.apache.http.HttpStatus.SC_BAD_REQUEST;
 import static org.hamcrest.CoreMatchers.is;
 
-
 public class CreatingCourierWithoutObligatoryFieldTest {
     private CourierClient courierClient;
     private int courierId;

@@ -18,7 +18,6 @@ import static org.apache.http.HttpStatus.SC_CREATED;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.notNullValue;
 
-
 public class CreatingCourierWithObligatoryFieldsTest {
     private CourierClient courierClient;
     private int courierId;

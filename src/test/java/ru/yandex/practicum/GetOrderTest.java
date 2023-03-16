@@ -1,5 +1,4 @@
 package ru.yandex.practicum;
-
 import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
 import io.qameta.allure.restassured.AllureRestAssured;

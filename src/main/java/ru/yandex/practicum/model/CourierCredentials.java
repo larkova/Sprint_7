@@ -1,5 +1,4 @@
 package ru.yandex.practicum.model;
-
 public class CourierCredentials {
     private String login;
     private String password;

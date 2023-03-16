@@ -15,7 +15,6 @@ import ru.yandex.practicum.model.CourierCredentials;
 import static org.apache.http.HttpStatus.SC_BAD_REQUEST;
 import static org.hamcrest.CoreMatchers.is;
 
-
 public class LogInWithoutPasswordTest {
     private CourierClient courierClient;
 
