@@ -19,7 +19,6 @@ import static org.apache.http.HttpStatus.SC_NOT_FOUND;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.notNullValue;
 
-
 public class LogInWithWrongPasswordTest {
     private CourierClient courierClient;
     private int courierId;

@@ -1,5 +1,4 @@
 package ru.yandex.practicum.model;
-
 import java.util.List;
 
 public class Order {

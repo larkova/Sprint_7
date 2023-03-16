@@ -17,7 +17,6 @@ import static org.apache.http.HttpStatus.SC_CREATED;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.notNullValue;
 
-
 public class CreatingCourierTest {
     private CourierClient courierClient;
     private int courierId;

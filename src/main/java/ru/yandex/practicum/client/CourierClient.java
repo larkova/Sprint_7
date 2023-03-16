@@ -4,7 +4,7 @@ import io.restassured.response.ValidatableResponse;
 import ru.yandex.practicum.client.base.ScooterRestClient;
 import ru.yandex.practicum.model.Courier;
 import ru.yandex.practicum.model.CourierCredentials;
-import ru.yandex.practicum.model.Order;
+
 
 import static io.restassured.RestAssured.given;
 
